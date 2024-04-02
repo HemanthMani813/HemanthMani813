@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with BackEnd & FrontEnd
 - 💬 Ask me about FrontEnd
 - ⚡ Fun fact: I watch movies and I love Travelling
-- 
+  
 
 <!---
 HemanthMani813/HemanthMani813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
